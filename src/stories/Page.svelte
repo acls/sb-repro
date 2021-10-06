@@ -1,4 +1,5 @@
 <script>
+  import VirtualScroll from 'svelte-virtual-scroll-list';
   import './page.css';
   import Header from './Header.svelte';
 
