@@ -12148,6 +12148,7 @@ fsevents@^1.2.7:
     sirv-cli: ^1.0.0
     svelte: ^3.43.1
     svelte-loader: ^3.1.2
+    svelte-virtual-scroll-list: ^1.0.8
   languageName: unknown
   linkType: soft
 
@@ -12177,6 +12178,15 @@ fsevents@^1.2.7:
   peerDependencies:
     svelte: ">3.0.0"
   checksum: 586f85d2b682bcffeda82cc94823ce48a9dea25779ab817ee7bc09aa256cf1764e9d9bd24408d9dc4c1b63d0b40c9f54d62022b55075dfdd3c5b5d61718db9bf
+  languageName: node
+  linkType: hard
+
+"svelte-virtual-scroll-list@npm:^1.0.8":
+  version: 1.0.8
+  resolution: "svelte-virtual-scroll-list@npm:1.0.8"
+  peerDependencies:
+    svelte: ^3.0.0
+  checksum: 7d7142249c6b9dc37f8b9e04c3a1d5f701d36b44793d7bbc707ad285b11a0d383104f560013799bca3b25f048c2c6703d400fd1542c8ebb7badc0e1c2555066b
   languageName: node
   linkType: hard
 
